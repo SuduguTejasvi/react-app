@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Psychology",
+      "totalCopies": "2",
+      "id": 2
+    },
+    {
+      "id": "9e0edfdb-7164-4e66-9808-e74576a011b3",
+      "title": "test",
+      "author": "test",
+      "genre": "Psychology",
+      "totalCopies": 2
+    }
+  ]
+}
